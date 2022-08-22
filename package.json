@@ -1,0 +1,12 @@
+{
+    "name": "alvexo-test-task",
+    "version": "0.0.1",
+    "description": "Alvexo test task (implements PersonCollection class)",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "dev": "nodemon index.js"
+    },
+    "author": "",
+    "license": "ISC"
+}

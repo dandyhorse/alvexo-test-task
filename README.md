@@ -1,4 +1,4 @@
 # alvexo-test-task
-Implement PersonCollection
+Implements PersonCollection
 
-Provide small tests into index.js
+Tests provided into index.js

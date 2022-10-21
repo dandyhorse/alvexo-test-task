@@ -1,3 +1,4 @@
+// comm
 import PersonCollection from "./classes/PersonCollection.js";
 
 // we can also try to provide any property to Person / PersonCollection consturctors

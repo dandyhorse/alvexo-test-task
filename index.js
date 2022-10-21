@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 // comm +1
-=======
-// comm+2
->>>>>>> release_1.1-bugfix
 import PersonCollection from "./classes/PersonCollection.js";
 
 // we can also try to provide any property to Person / PersonCollection consturctors

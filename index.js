@@ -9,8 +9,5 @@ const personFour = { name: "A", dateOfBirth: new Date(), height: 12 };
 const collection = new PersonCollection("height");
 
 [personOne, personTwo, personThree, personFour].forEach((p) => collection.add(p));
-
+a
 const removedPerson = collection.remove();
-
-console.log(collection.persons);
-console.log(removedPerson);
